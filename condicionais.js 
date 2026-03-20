@@ -1,6 +1,6 @@
 //esse é condicional básica até um dog faz, você perguntará a idade da pessoa e informar se ela é menor de idade ou não.
 
-let idade = number (prompt("Digite sua idade"))
+let idade = Number(prompt("Digite sua idade"))
 if(idade > 18){
  alert("Maior de idade")
 }else{

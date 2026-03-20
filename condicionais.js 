@@ -6,3 +6,5 @@ if(idade > 18){
 }else{
  alert("Menor de idade")
 }
+
+// você pode usar parseInt ou Number, mas você que escolhe o que for melhor.

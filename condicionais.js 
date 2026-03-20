@@ -1,4 +1,4 @@
-// esse é condicional básica até um dog faz, você perguntará a idade da pessoa e informar se ela é menor de idade ou não.
+//esse é condicional básica até um dog faz, você perguntará a idade da pessoa e informar se ela é menor de idade ou não.
 
 let idade = prompt("Digite sua idade")
 If(idade > 18){
